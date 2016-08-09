@@ -1,1 +1,3 @@
-# Gitの勉強
+ Gitの勉強
+
+miki desu yorosiku
